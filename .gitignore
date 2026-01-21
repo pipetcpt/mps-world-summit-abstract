@@ -1,0 +1,17 @@
+# Raw data folder (contains source materials not for public distribution)
+raw-data/
+
+# macOS system files
+.DS_Store
+*.DS_Store
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp

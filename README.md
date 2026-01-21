@@ -142,14 +142,12 @@ This repository contains the materials prepared for abstract submission to the 2
 | `README.md` | Comprehensive project documentation with bilingual abstracts |
 | `abstract.md` | Final abstract for conference submission (350 words) |
 | `submission.md` | Conference submission guidelines and requirements |
-| `paper.md` | Full text of the related BioChip Journal publication |
-| `choi.md` | Detailed presentation notes from MYSTER symposium |
 
 ---
 
 ## Acknowledgements
 
-This work was supported by the Korea Health Technology R&D Project through the Korea Health Industry Development Institute (KHIDI), funded by the Ministry of Health & Welfare, Republic of Korea.
+This research was supported by a grant RS-2024-00396711 from Ministry of Food and Drug Safety in 2024.
 
 ---
 
@@ -163,8 +161,18 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 For inquiries regarding this research, please contact:
 
-**Sungpil Han, Ph.D.**
-Department of Pharmacology, College of Medicine
-The Catholic University of Korea
-Banpodaero 222, Seocho-gu, Seoul, Republic of Korea
-Email: sungpil@catholic.ac.kr
+**Sungpil Han, M.D./Ph.D.**
+Assistant Professor
+
+- Department of Pharmacology, College of Medicine, The Catholic University of Korea
+- Department of Clinical Pharmacology & Therapeutics, Seoul St. Mary's Hospital, The Catholic University of Korea
+- PIPET (Pharmacometrics Institute for Practical Education & Training)
+
+222 Banpodaero, Seocho-gu, Seoul, Korea (06591)
+
+| | |
+|---|---|
+| Email | shan@catholic.ac.kr |
+| Phone | +82-2-3147-8356 |
+| Mobile | +82-10-6782-0522 |
+| FAX | +82-2-2258-7876 |
